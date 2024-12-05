@@ -1,7 +1,7 @@
 {
-  "name": "react-firebaseui",
+  "name": "react-firebaseui-v18-plus",
   "version": "6.0.0",
-  "description": "React wrapper for firebaseui: Javascript library for customizable UI on top of Firebase SDK",
+  "description": "Extended-React wrapper for firebaseui: Javascript library for customizable UI on top of Firebase SDK",
   "files": [
     "FirebaseAuth.d.ts",
     "FirebaseAuth.js",
@@ -25,11 +25,11 @@
   "author": "Google",
   "repository": {
     "type": "git",
-    "url": "https://github.com/firebase/firebaseui-web-react.git"
+    "url": "https://github.com/DerekWasswa/firebaseui-web-react.git"
   },
   "license": "Apache-2.0",
   "peerDependencies": {
-    "react": ">=15 <=17",
+    "react": ">=15 <=18",
     "firebase": "^9.1.3"
   },
   "dependencies": {
